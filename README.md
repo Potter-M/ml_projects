@@ -3,7 +3,7 @@
 A project using machine learning and econometric methods to build a model that predicts the price of rental units in the United States based on various features. Multiple models are explored, evaluated, and compared.
 
 
-## 📁 Data Source & Attribution
+## Data Source & Attribution
 
 This project utilizes the **Apartment for Rent Classified** dataset sourced from the **UCI Machine Learning Repository**. 
 
